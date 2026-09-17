@@ -103,3 +103,16 @@ airline-profitability-analysis/
 ├── Airline_Profitability_Analysis.xlsx
 ├── Airline_Profitability_Dashboard.png
 └── README.md
+
+## 👨‍💻 Author
+
+**Muzammil Mukadam**
+
+Aspiring **AI/ML Engineer & Data Analyst**
+
+### 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/muzammil-mukadam-b18b1a264/)
+- [GitHub](https://github.com/muzamilmukadam)
+
+
